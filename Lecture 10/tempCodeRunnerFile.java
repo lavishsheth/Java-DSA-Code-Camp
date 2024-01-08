@@ -1,0 +1,1 @@
+double a = sc.nextDouble();
